@@ -1,0 +1,4 @@
+/back/node_modules
+/front/node_modules
+# retirer le fichier env
+# /back/config
